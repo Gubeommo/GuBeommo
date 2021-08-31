@@ -5,7 +5,8 @@
 ](https://github.com/anuraghazra/github-readme-stats)
 
 
-### :wrench: <b>Stack</b> :hammer:
+### :wrench: <b>Tech Stack</b> :hammer:<br>
+  <p>Tech that I've used at least one</p><br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
@@ -19,9 +20,17 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a><br><br>
   
   
+  ### :speech_balloon: <b>Contact</b>
+  <br>
+  
+  <a href=mailto:gbm201805021@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  
+  
+  
+  <br><br>
   
   
 
